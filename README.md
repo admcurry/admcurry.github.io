@@ -1,4 +1,4 @@
-#### atcurry.github.io
+
 
 # Adam Curry
 
