@@ -2,6 +2,7 @@
 # Recent R Projects
 
 [Index](https://atcurry.github.io/index.html)
+[Progress Page] (https://atcurry.github.io/courses.html)
 
 ### _The Popularity of Stack Overflow Tags Over Time_
 ##### _A recent project in which I used R (dplyr & ggplot) to import, analyse and plot data_
