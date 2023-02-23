@@ -1,12 +1,7 @@
 
-# Adam Curry
+# Recent R Projects
 
-### _Links:_
 [Index](https://atcurry.github.io/index.html)
-
----
-
-### _My Recent Projects (R):_
 
 ### _The Popularity of Stack Overflow Tags Over Time_
 ##### _A recent project in which I used R (dplyr & ggplot) to import, analyse and plot data_
