@@ -1,6 +1,7 @@
 > **Links:**
 > - [Index](https://atcurry.github.io/page.html)
 > - [Progress Page](https://atcurry.github.io/courses.html)
+> - [R Projects](https://atcurry.github.io/rprojects.html)
 
 
 ## Recent R Projects
