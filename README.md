@@ -6,27 +6,25 @@
 
 <br>
 
+![Blue Dotted Friendly Corporate Corporate X-Frame Banner (2)](https://user-images.githubusercontent.com/124198480/223321048-88a6d522-b36a-4276-9202-0a96e713d8af.png)
 
-![Blue Dotted Friendly Corporate Corporate X-Frame Banner (1)](https://user-images.githubusercontent.com/124198480/221080887-302f208c-e4c0-42ab-8a58-a316b0ab43c9.png)
+<div align="center"> <h3> Hi there, I'm Adam 👋 </h3>  </div>
 
-
-<div align="center"> <h3> Hi there, I'm Adam :wave: </h3>  </div>
-
-<div align="center"> <h2> :memo: Mathematics Undergraduate :books: <i>&</i>  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div> <br/>
+<div align="center"> <h2> 📝 Mathematics Undergraduate 📚 <i>&</i>  📊  Aspiring Data Analyst 📈 </h2>  </div> <br/>
 
 
-<div align="left"> <h2> What I'm Working On  :open_file_folder: </h2>  </div>
+<div align="left"> <h2> What I'm Working On  📁 </h2>  </div>
 
 **I'm currently working through Datacamp's _Data Analyst with R_ course**
 
-<div align="left"> <h2> My Languages  :ballot_box_with_check: </h2>  </div>
+<div align="left"> <h2> My Languages  ✔️ </h2>  </div>
 
 - **R** (Intermediate)  
 - **Python** (Learning)
 - **SQL** (Next to learn)
 - **Julia** (Beginner)
 
-<div align="left"> <h2> My Stats :bar_chart: </h2>  </div>
+<div align="left"> <h2> My Stats 📊  </h2>  </div>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,11 +36,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcurry&layout=compact" />
 </a>
 
-
-
-<div align="left"> <h2> Links :link: </h2>  </div>
-
-- https://atcurry.github.io/
-- https://app.datacamp.com/profile/adamcurry
-- https://deepnote.com/@abc-958e
-- https://codepen.io/atcurry
