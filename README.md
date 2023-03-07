@@ -1,22 +1,48 @@
-> **Links:**
-> - [Index](https://atcurry.github.io/page.html)
-> - [Progress Page](https://atcurry.github.io/courses.html)
-> - [R Projects](https://atcurry.github.io/rprojects.html)
+<kbd> <br>   Website Pages:   <br> </kbd>
+[<kbd> <br>  Index  <br> </kbd>](https://atcurry.github.io/page.html)
+[<kbd> <br>  Coding Progress  <br> </kbd>](https://atcurry.github.io/courses.html)
+[<kbd> <br>  R Projects  <br> </kbd>](https://atcurry.github.io/rprojects.html)
+[<kbd> <br>  Julia Projects  <br> </kbd>](https://atcurry.github.io/juliaprojects.html)
+
+<br>
 
 
-## Recent R Projects
-### _The Popularity of Stack Overflow Tags Over Time_
-##### _A recent project in which I used R (dplyr & ggplot) to import, analyse and plot data._
-![so](https://user-images.githubusercontent.com/124198480/220636011-f226bdd5-1986-4fbf-bf01-2f623e1f1eaa.png)
+![Blue Dotted Friendly Corporate Corporate X-Frame Banner (1)](https://user-images.githubusercontent.com/124198480/221080887-302f208c-e4c0-42ab-8a58-a316b0ab43c9.png)
 
-[Click here for the R code](https://github.com/atcurry/RWorkflow/blob/main/Datasets/StackOverflow/StackOverflow.R)
 
----
+<div align="center"> <h3> Hi there, I'm Adam :wave: </h3>  </div>
 
-### _Color Comparison of Batman vs Starwars_
-##### _A project in which I compared the colors used in batman vs star wars. I used R packages dplyr to analyse data and join multiple tables of data together, and then ggplot2 to plot my results._
-![image](https://user-images.githubusercontent.com/124198480/217676509-cc0159d7-adb6-4493-a72d-44b55b9e7e55.png)
+<div align="center"> <h2> :memo: Mathematics Undergraduate :books: <i>&</i>  :bar_chart: Aspiring Data Analyst :chart_with_upwards_trend: </h2>  </div> <br/>
 
-[Click here for the R code](https://github.com/atcurry/RWorkflow/blob/main/Datasets/LegoColorAnalysis/LegoColorAnalysis.R)
 
----
+<div align="left"> <h2> What I'm Working On  :open_file_folder: </h2>  </div>
+
+**I'm currently working through Datacamp's _Data Analyst with R_ course**
+
+<div align="left"> <h2> My Languages  :ballot_box_with_check: </h2>  </div>
+
+- **R** (Intermediate)  
+- **Python** (Learning)
+- **SQL** (Next to learn)
+- **Julia** (Beginner)
+
+<div align="left"> <h2> My Stats :bar_chart: </h2>  </div>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atcurry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
+       width="400" 
+     height="200"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atcurry&layout=compact" />
+</a>
+
+
+
+<div align="left"> <h2> Links :link: </h2>  </div>
+
+- https://atcurry.github.io/
+- https://app.datacamp.com/profile/adamcurry
+- https://deepnote.com/@abc-958e
+- https://codepen.io/atcurry
