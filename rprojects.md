@@ -1,4 +1,42 @@
-## Data Analyses with R
+<div align="center"> <h1> 💻 R Projects Page 💻 </h1> </div> <br/>
+
+<div align="center"> <h2> Data Analyses </h2> </div> <br/>
+
+[See Overview of Recent Projects](https://atcurry.github.io)
+
+### _Data Analysis Reports_
+All code written in R, reports written in R Markdown, then exported to HTML.  
+
+- [Investment Report](https://atcurry.github.io) 
+- [Languages Report](https://atcurry.github.io)
+- [Gapminder Report](https://atcurry.github.io)
+- [Cars Report](https://atcurry.github.io)
+- [Salmon Report](https://atcurry.github.io)  
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<div align="center"> <h2> Data Analyses: Recent Projects </h2> </div> <br/>
 
 ### _The Highest & Lowest Life Expectancies in 2007_
 ##### _An analysis of the gapminder dataset, visualizing the countries with the 10 highest and 10 lowest life expectancies._
@@ -9,8 +47,6 @@
 ### _The Popularity of Stack Overflow Tags Over Time_
 ##### _A recent analysis in which I used R (dplyr & ggplot) to import, analyse and plot data._
 ![image](images/stackoverflow.png)
-
-[Click here for the R code](https://github.com/atcurry/RWorkflow/blob/main/Datasets/StackOverflow/StackOverflow.R)
 
 ---
 
