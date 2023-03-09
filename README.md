@@ -1,12 +1,18 @@
 <kbd> <br>   Website Pages:   <br> </kbd>
-[<kbd> <br>  Index  <br> </kbd>](https://atcurry.github.io/page.html)
-[<kbd> <br>  Coding Progress  <br> </kbd>](https://atcurry.github.io/courses.html)
+[<kbd> <br>  About  <br> </kbd>](https://atcurry.github.io/page.html)
+[<kbd> <br>  Coding  <br> </kbd>](https://atcurry.github.io/courses.html)
 [<kbd> <br>  R Projects  <br> </kbd>](https://atcurry.github.io/rprojects.html)
 [<kbd> <br>  Julia Projects  <br> </kbd>](https://atcurry.github.io/juliaprojects.html)
+[<kbd> <br>  Python Projects  <br> </kbd>](https://atcurry.github.io/rprojects.html)
+[<kbd> <br>  Github  <br> </kbd>](https://github.com/atcurry)
 
 <br>
 
+<!-- 
 ![Blue Dotted Friendly Corporate Corporate X-Frame Banner (2)](https://user-images.githubusercontent.com/124198480/223321048-88a6d522-b36a-4276-9202-0a96e713d8af.png)
+-->
+
+---
 
 <div align="center"> <h3> Hi there, I'm Adam 👋 </h3>  </div>
 
