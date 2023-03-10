@@ -1,10 +1,12 @@
-[<kbd> <br>  About  <br> </kbd>](https://atcurry.github.io/page.html)
+[<kbd> <br>  Home  <br> </kbd>](https://atcurry.github.io)
+[<kbd> <br>  About  <br> </kbd>](https://atcurry.github.io/about.html)
+[<kbd> <br>  Notes  <br> </kbd>](https://atcurry.github.io/notes.html)
 [<kbd> <br>  Coding  <br> </kbd>](https://atcurry.github.io/coding.html)
 [<kbd> <br>  Data Analysis <br> </kbd>](https://atcurry.github.io/data.html)
 [<kbd> <br>  Projects (r)  <br> </kbd>](https://atcurry.github.io/rprojects.html)
 [<kbd> <br>  Projects (julia)  <br> </kbd>](https://atcurry.github.io/juliaprojects.html)
 [<kbd> <br>  Projects (python)  <br> </kbd>](https://atcurry.github.io)
-[<kbd> <br>  Github  <br> </kbd>](https://atcurry.github.io/repos.html)
+[<kbd> <br>  Repo's  <br> </kbd>](https://atcurry.github.io/repos.html)
 
 <!-- 
 ![Blue Dotted Friendly Corporate Corporate X-Frame Banner (2)](https://user-images.githubusercontent.com/124198480/223321048-88a6d522-b36a-4276-9202-0a96e713d8af.png)
