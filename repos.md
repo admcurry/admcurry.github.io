@@ -11,3 +11,15 @@
 ---
 
 <div align="center"> <h1> Github Repositories </h1> </div> <br/>
+
+[**Github Profile**](https://github.com/atcurry)
+
+[**Website Repository**](https://github.com/atcurry/atcurry.github.io)
+
+[**R Workflow**](https://github.com/atcurry/RWorkflow)
+
+[**Python Workflow**](https://github.com/atcurry/PyWorkflow)
+
+[**Julia Workflow**](https://github.com/atcurry/julia)
+
+[**Latex Repository**](https://github.com/atcurry/texprojects)
