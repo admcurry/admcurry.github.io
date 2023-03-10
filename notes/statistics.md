@@ -10,6 +10,8 @@
 
 ---
 
+[<kbd> <- Back to notes  <br> </kbd>](https://atcurry.github.io/notes.html)
+
 <div align="center"> <h1> Statistics </h1> </div> <br/>
 
 **Statistics is the practice and study of collecting and analysing data.**  

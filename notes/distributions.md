@@ -10,6 +10,8 @@
 
 ---
 
+[<kbd> <- Back to notes  <br> </kbd>](https://atcurry.github.io/notes.html)
+
 <div align="center"> <h1> Distributions </h1> </div> <br/>
 
 ### The Binomial Distribution
