@@ -26,12 +26,13 @@ I am currently learning data analysis using the R language. I have completed cou
 
 **Navigate through the website using the buttons at the top of the page.**
 - **About:** Information about myself and the website.
+- **Notes:** Cheatsheets & notes for learning code.
 - **Coding:** Information about my progress in coding, courses and projects I am working on.
 - **Data Analysis:** Reports written in R Markdown of data analysis projects I have done.
 - **R Projects:** Overview of projects I have done in R.
 - **Julia Projects:** Overview of projects I have done in Julia and Plotly.
 - **Python Projects:** Coming soon
-- **Github:** A link to my github account
+- **Repositories:** A link to my github account and my repositories.
 
 
 <div align="left"> <h2> My Languages  ✔️ </h2>  </div>
